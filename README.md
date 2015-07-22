@@ -1,6 +1,6 @@
 # Yii Russian Naming Validator
 
-Verifies if the attribute represents a First name (given name), Patronymic or Family name (surname) in Russian naming customs.
+Verifies if the attribute represents a First name (given name), Patronymic or Family name (surname) in Russian naming customs. Attribute must be well formed UTF-8 string.
 
 [Samples](#samples)  
 [Installation](#installation)  
