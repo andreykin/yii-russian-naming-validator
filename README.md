@@ -28,7 +28,7 @@ Verifies if the attribute represents a First name (given name), Patronymic or Fa
 
 ### Manual Installation
 
-Download the [latest version](https://github.com/andreyka/yii-russian-naming-validator/archive/master.zip) and move to the `RussianNamingValidator` folder into your `protected/extensions/validators` folder.
+Download the [latest version](https://github.com/andreykin/yii-russian-naming-validator/archive/master.zip) and move to the `RussianNamingValidator` folder into your `protected/extensions/validators` folder.
 
 ## Configuration
 
