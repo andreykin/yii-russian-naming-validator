@@ -3,7 +3,7 @@
  * RussianNamingValidator verifies if the attribute represents a First name (given name), Patronymic or Family name (surname)
  * in Russian naming customs.
 *
-* By setting the {@link type} property, one can specify what format the given value
+* By setting the {@link formatName} property, one can specify what format the given value
 * must be in. If the given date value doesn't follow the format, the attribute is considered as invalid.
 *
 * @author Andrey Kapustin <mail@andreyko.ru>
