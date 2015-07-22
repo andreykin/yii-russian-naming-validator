@@ -73,4 +73,4 @@ array('firstname, lastname, fathername', 'RussianNamingValidator'),
 - Author: Andrey V. Kapustin <mail@andreyko.ru>
 - Source Code: https://github.com/andreykin/yii-russian-naming-validator
 - Copyright © 2015 Andrey V. Kapustin <mail@andreyko.ru>
-- License: BSD-2-Clause https://raw.github.com/andreykin/yii-russian-naming-validator/master/LICENSE
+- License: BSD-2-Clause https://raw.github.com/andreykin/yii-russian-naming-validator/master/LICENSE.md
